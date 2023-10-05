@@ -1,0 +1,96 @@
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Unb';
+}
+
+.btn_container{
+    margin: 0 auto;
+    max-width: 1920px;
+display: flex;
+justify-content: center;
+}
+.btn_content{
+    margin-top: 150px;
+    margin-bottom: 150px;
+background-color: rgb(241, 151, 169);
+padding: 50px;
+width: 1920px;
+height: auto;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.box{
+    margin: 15px 15px 15px;
+width: 200px;
+padding: 30px;
+height: auto;
+background-color: #fff;
+border: 2px solid #000;
+
+text-align: center;
+}
+.box2{
+    margin: 15px 15px 15px;
+width: 200px;
+padding: 30px;
+height: auto;
+background-color: #fff;
+border: 2px solid #000;
+
+text-align: center;
+}
+
+.button{
+width: 200px;
+padding: 20px;
+height: auto;
+background-color: #fff;
+border: 1px solid #000;
+
+color: rgb(196, 137, 245);
+}
+.button2{
+    width: 200px;
+    padding: 20px;
+    height: auto;
+    background-color: #fff ;
+    color: rgb(88, 88, 247);
+    border: 1px solid #000;
+}
+.button3{
+    width: 200px;
+    padding: 20px;
+    height: auto;
+    background-color: #fff ;
+    
+    border: 1px solid #000;
+}
+.button4{
+    width: 200px;
+    padding: 20px;
+    height: auto;
+    border: 1px solid #000;
+}
+.button5{
+    width: 200px;
+    padding: 20px;
+    height: auto;
+    border: 1px solid #000;
+    
+}
+.GitHub{
+    width: 200px;
+    padding: 20px;
+    height: auto;
+    border: 1px solid #000;
+    color: #fff;
+text-align: center;
+}
